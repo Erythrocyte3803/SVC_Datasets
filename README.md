@@ -1,12 +1,3 @@
----
-tags:
-- Diff-SVC
-- Genshin
-- Genshin Impact
-- Voice Data
-- Voice Dataset
----
-
 # Genshin Datasets for Diff-SVC
 
 ## 仓库地址
